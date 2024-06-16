@@ -1,0 +1,254 @@
+C:\Users\eg31520\source\repos\TodoAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\eg31520\source\repos\TodoAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\eg31520\source\repos\TodoAPI\bin\Debug\net8.0\TODOAPI.exe
+C:\Users\eg31520\source\repos\TodoAPI\bin\Debug\net8.0\TODOAPI.deps.json
+C:\Users\eg31520\source\repos\TodoAPI\bin\Debug\net8.0\TODOAPI.runtimeconfig.json
+C:\Users\eg31520\source\repos\TodoAPI\bin\Debug\net8.0\TODOAPI.dll
+C:\Users\eg31520\source\repos\TodoAPI\bin\Debug\net8.0\TODOAPI.pdb
+C:\Users\eg31520\source\repos\TodoAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\eg31520\source\repos\TodoAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\eg31520\source\repos\TodoAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\eg31520\source\repos\TodoAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\eg31520\source\repos\TodoAPI\obj\Debug\net8.0\TODOAPI.csproj.AssemblyReference.cache
+C:\Users\eg31520\source\repos\TodoAPI\obj\Debug\net8.0\TODOAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eg31520\source\repos\TodoAPI\obj\Debug\net8.0\TODOAPI.AssemblyInfoInputs.cache
+C:\Users\eg31520\source\repos\TodoAPI\obj\Debug\net8.0\TODOAPI.AssemblyInfo.cs
+C:\Users\eg31520\source\repos\TodoAPI\obj\Debug\net8.0\TODOAPI.csproj.CoreCompileInputs.cache
+C:\Users\eg31520\source\repos\TodoAPI\obj\Debug\net8.0\TODOAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\eg31520\source\repos\TodoAPI\obj\Debug\net8.0\TODOAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\eg31520\source\repos\TodoAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\eg31520\source\repos\TodoAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\eg31520\source\repos\TodoAPI\obj\Debug\net8.0\staticwebassets\msbuild.TODOAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\eg31520\source\repos\TodoAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.TODOAPI.props
+C:\Users\eg31520\source\repos\TodoAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TODOAPI.props
+C:\Users\eg31520\source\repos\TodoAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TODOAPI.props
+C:\Users\eg31520\source\repos\TodoAPI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\eg31520\source\repos\TodoAPI\obj\Debug\net8.0\scopedcss\bundle\TODOAPI.styles.css
+C:\Users\eg31520\source\repos\TodoAPI\obj\Debug\net8.0\TODOAPI.csproj.Up2Date
+C:\Users\eg31520\source\repos\TodoAPI\obj\Debug\net8.0\TODOAPI.dll
+C:\Users\eg31520\source\repos\TodoAPI\obj\Debug\net8.0\refint\TODOAPI.dll
+C:\Users\eg31520\source\repos\TodoAPI\obj\Debug\net8.0\TODOAPI.pdb
+C:\Users\eg31520\source\repos\TodoAPI\obj\Debug\net8.0\TODOAPI.genruntimeconfig.cache
+C:\Users\eg31520\source\repos\TodoAPI\obj\Debug\net8.0\ref\TODOAPI.dll
+C:\Users\eg31520\source\repos\TODOAPI\bin\Debug\net8.0\Humanizer.dll
+C:\Users\eg31520\source\repos\TODOAPI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\eg31520\source\repos\TODOAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\eg31520\source\repos\TODOAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\eg31520\source\repos\TODOAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\eg31520\source\repos\TODOAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\eg31520\source\repos\TODOAPI\bin\Debug\net8.0\Microsoft.Data.Sqlite.dll
+C:\Users\eg31520\source\repos\TODOAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\eg31520\source\repos\TODOAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\eg31520\source\repos\TODOAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\eg31520\source\repos\TODOAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\eg31520\source\repos\TODOAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\eg31520\source\repos\TODOAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\eg31520\source\repos\TODOAPI\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\eg31520\source\repos\TODOAPI\bin\Debug\net8.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\eg31520\source\repos\TODOAPI\bin\Debug\net8.0\SQLitePCLRaw.core.dll
+C:\Users\eg31520\source\repos\TODOAPI\bin\Debug\net8.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\eg31520\source\repos\TODOAPI\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\eg31520\source\repos\TODOAPI\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\eg31520\source\repos\TODOAPI\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\eg31520\source\repos\TODOAPI\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\eg31520\source\repos\TODOAPI\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\eg31520\source\repos\TODOAPI\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\eg31520\source\repos\TODOAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\eg31520\source\repos\TODOAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\eg31520\source\repos\TODOAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\eg31520\source\repos\TODOAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\eg31520\source\repos\TODOAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\eg31520\source\repos\TODOAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\eg31520\source\repos\TODOAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\eg31520\source\repos\TODOAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\eg31520\source\repos\TODOAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\eg31520\source\repos\TODOAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\eg31520\source\repos\TODOAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\eg31520\source\repos\TODOAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\eg31520\source\repos\TODOAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\eg31520\source\repos\TODOAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\eg31520\source\repos\TODOAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\eg31520\source\repos\TODOAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\eg31520\source\repos\TODOAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\eg31520\source\repos\TODOAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\eg31520\source\repos\TODOAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\eg31520\source\repos\TODOAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\eg31520\source\repos\TODOAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\eg31520\source\repos\TODOAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\eg31520\source\repos\TODOAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\eg31520\source\repos\TODOAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\eg31520\source\repos\TODOAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\eg31520\source\repos\TODOAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\eg31520\source\repos\TODOAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\eg31520\source\repos\TODOAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\eg31520\source\repos\TODOAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\eg31520\source\repos\TODOAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\eg31520\source\repos\TODOAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\eg31520\source\repos\TODOAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\eg31520\source\repos\TODOAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\eg31520\source\repos\TODOAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\eg31520\source\repos\TODOAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\eg31520\source\repos\TODOAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\eg31520\source\repos\TODOAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\eg31520\source\repos\TODOAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\eg31520\source\repos\TODOAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\eg31520\source\repos\TODOAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\eg31520\source\repos\TODOAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\eg31520\source\repos\TODOAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\eg31520\source\repos\TODOAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\eg31520\source\repos\TODOAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\eg31520\source\repos\TODOAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\eg31520\source\repos\TODOAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\eg31520\source\repos\TODOAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\eg31520\source\repos\TODOAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\eg31520\source\repos\TODOAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\eg31520\source\repos\TODOAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\eg31520\source\repos\TODOAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\eg31520\source\repos\TODOAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\eg31520\source\repos\TODOAPI\bin\Debug\net8.0\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+C:\Users\eg31520\source\repos\TODOAPI\bin\Debug\net8.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\eg31520\source\repos\TODOAPI\bin\Debug\net8.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\eg31520\source\repos\TODOAPI\bin\Debug\net8.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\eg31520\source\repos\TODOAPI\bin\Debug\net8.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\eg31520\source\repos\TODOAPI\bin\Debug\net8.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\eg31520\source\repos\TODOAPI\bin\Debug\net8.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\eg31520\source\repos\TODOAPI\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\eg31520\source\repos\TODOAPI\bin\Debug\net8.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\eg31520\source\repos\TODOAPI\bin\Debug\net8.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\eg31520\source\repos\TODOAPI\bin\Debug\net8.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\eg31520\source\repos\TODOAPI\bin\Debug\net8.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\eg31520\source\repos\TODOAPI\bin\Debug\net8.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\eg31520\source\repos\TODOAPI\bin\Debug\net8.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\eg31520\source\repos\TODOAPI\bin\Debug\net8.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\eg31520\source\repos\TODOAPI\bin\Debug\net8.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\eg31520\source\repos\TODOAPI\bin\Debug\net8.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\eg31520\source\repos\TODOAPI\bin\Debug\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\eg31520\source\repos\TODOAPI\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\eg31520\source\repos\TODOAPI\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\new my\TodoAPI\bin\Debug\net8.0\appsettings.Development.json
+D:\new my\TodoAPI\bin\Debug\net8.0\appsettings.json
+D:\new my\TodoAPI\bin\Debug\net8.0\TODOAPI.exe
+D:\new my\TodoAPI\bin\Debug\net8.0\TODOAPI.deps.json
+D:\new my\TodoAPI\bin\Debug\net8.0\TODOAPI.runtimeconfig.json
+D:\new my\TodoAPI\bin\Debug\net8.0\TODOAPI.dll
+D:\new my\TodoAPI\bin\Debug\net8.0\TODOAPI.pdb
+D:\new my\TodoAPI\bin\Debug\net8.0\Humanizer.dll
+D:\new my\TodoAPI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\new my\TodoAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\new my\TodoAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\new my\TodoAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\new my\TodoAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\new my\TodoAPI\bin\Debug\net8.0\Microsoft.Data.Sqlite.dll
+D:\new my\TodoAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\new my\TodoAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\new my\TodoAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\new my\TodoAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\new my\TodoAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\new my\TodoAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\new my\TodoAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\new my\TodoAPI\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\new my\TodoAPI\bin\Debug\net8.0\SQLitePCLRaw.batteries_v2.dll
+D:\new my\TodoAPI\bin\Debug\net8.0\SQLitePCLRaw.core.dll
+D:\new my\TodoAPI\bin\Debug\net8.0\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\new my\TodoAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\new my\TodoAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\new my\TodoAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\new my\TodoAPI\bin\Debug\net8.0\System.CodeDom.dll
+D:\new my\TodoAPI\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\new my\TodoAPI\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\new my\TodoAPI\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\new my\TodoAPI\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\new my\TodoAPI\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\new my\TodoAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\new my\TodoAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\new my\TodoAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\new my\TodoAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\new my\TodoAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\new my\TodoAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\new my\TodoAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\new my\TodoAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\new my\TodoAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\new my\TodoAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\new my\TodoAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\new my\TodoAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\new my\TodoAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\new my\TodoAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\new my\TodoAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\new my\TodoAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\new my\TodoAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\new my\TodoAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\new my\TodoAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\new my\TodoAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\new my\TodoAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\new my\TodoAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\new my\TodoAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\new my\TodoAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\new my\TodoAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\new my\TodoAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\new my\TodoAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\new my\TodoAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\new my\TodoAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\new my\TodoAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\new my\TodoAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\new my\TodoAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\new my\TodoAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\new my\TodoAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\new my\TodoAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\new my\TodoAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\new my\TodoAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\new my\TodoAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\new my\TodoAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\new my\TodoAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\new my\TodoAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\new my\TodoAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\new my\TodoAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\new my\TodoAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\new my\TodoAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\new my\TodoAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\new my\TodoAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\new my\TodoAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\new my\TodoAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\new my\TodoAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\new my\TodoAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\new my\TodoAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\new my\TodoAPI\bin\Debug\net8.0\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+D:\new my\TodoAPI\bin\Debug\net8.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\new my\TodoAPI\bin\Debug\net8.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\new my\TodoAPI\bin\Debug\net8.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\new my\TodoAPI\bin\Debug\net8.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\new my\TodoAPI\bin\Debug\net8.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+D:\new my\TodoAPI\bin\Debug\net8.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+D:\new my\TodoAPI\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\new my\TodoAPI\bin\Debug\net8.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+D:\new my\TodoAPI\bin\Debug\net8.0\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\new my\TodoAPI\bin\Debug\net8.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\new my\TodoAPI\bin\Debug\net8.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\new my\TodoAPI\bin\Debug\net8.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+D:\new my\TodoAPI\bin\Debug\net8.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+D:\new my\TodoAPI\bin\Debug\net8.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\new my\TodoAPI\bin\Debug\net8.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\new my\TodoAPI\bin\Debug\net8.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\new my\TodoAPI\bin\Debug\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\new my\TodoAPI\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\new my\TodoAPI\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\new my\TodoAPI\obj\Debug\net8.0\TODOAPI.csproj.AssemblyReference.cache
+D:\new my\TodoAPI\obj\Debug\net8.0\TODOAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\new my\TodoAPI\obj\Debug\net8.0\TODOAPI.AssemblyInfoInputs.cache
+D:\new my\TodoAPI\obj\Debug\net8.0\TODOAPI.AssemblyInfo.cs
+D:\new my\TodoAPI\obj\Debug\net8.0\TODOAPI.csproj.CoreCompileInputs.cache
+D:\new my\TodoAPI\obj\Debug\net8.0\TODOAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\new my\TodoAPI\obj\Debug\net8.0\TODOAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\new my\TodoAPI\obj\Debug\net8.0\staticwebassets.build.json
+D:\new my\TodoAPI\obj\Debug\net8.0\staticwebassets.development.json
+D:\new my\TodoAPI\obj\Debug\net8.0\staticwebassets\msbuild.TODOAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\new my\TodoAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.TODOAPI.props
+D:\new my\TodoAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TODOAPI.props
+D:\new my\TodoAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TODOAPI.props
+D:\new my\TodoAPI\obj\Debug\net8.0\staticwebassets.pack.json
+D:\new my\TodoAPI\obj\Debug\net8.0\scopedcss\bundle\TODOAPI.styles.css
+D:\new my\TodoAPI\obj\Debug\net8.0\TODOAPI.csproj.Up2Date
+D:\new my\TodoAPI\obj\Debug\net8.0\TODOAPI.dll
+D:\new my\TodoAPI\obj\Debug\net8.0\refint\TODOAPI.dll
+D:\new my\TodoAPI\obj\Debug\net8.0\TODOAPI.pdb
+D:\new my\TodoAPI\obj\Debug\net8.0\TODOAPI.genruntimeconfig.cache
+D:\new my\TodoAPI\obj\Debug\net8.0\ref\TODOAPI.dll
